@@ -1,0 +1,37 @@
+
+article.card {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    border-radius: 15%;
+
+}
+
+article img {
+    border-radius: 15%;
+
+}
+
+div.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FBF7E3;
+    border-radius: 20%;
+    
+    
+    
+}
+
+p, h3 {
+    margin:0px
+}
+
+
+
+button {
+    border-radius: 30%;
+    border-color: #F3DF85;
+    background-color: #F3DF85;
+}
